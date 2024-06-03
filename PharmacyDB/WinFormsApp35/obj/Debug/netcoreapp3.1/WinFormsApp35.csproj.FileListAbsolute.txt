@@ -1,0 +1,114 @@
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.exe
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.deps.json
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.json
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.dev.json
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.dll
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.pdb
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csprojAssemblyReference.cache
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Form1.resources
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Form2.resources
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfo.cs
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.dll
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.pdb
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.genruntimeconfig.cache
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Form3.resources
+C:\Users\IT\source\repos\WinFormsApp35\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Form4.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.exe
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.deps.json
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.json
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.dev.json
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.pdb
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.AssemblyReference.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.GenerateResource.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.GeneratedMSBuildEditorConfig.editorconfig
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfoInputs.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfo.cs
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CoreCompileInputs.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.pdb
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.genruntimeconfig.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CopyComplete
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Home.Home.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.DataControllerForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Properties.Resources.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Tables.DataForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.PatientForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.MedicineForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.BranchForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.defaultForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.ManufacturerForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.Med_Exist.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.exe
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.deps.json
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.json
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.dev.json
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.pdb
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.AssemblyReference.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.BranchForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.DataControllerForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.defaultForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.ManufacturerForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.MedicineForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.Med_Exist.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.PatientForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Home.Home.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Properties.Resources.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Tables.DataForm.resources
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.GenerateResource.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.GeneratedMSBuildEditorConfig.editorconfig
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfoInputs.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfo.cs
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CoreCompileInputs.cache
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CopyComplete
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.dll
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.pdb
+G:\SJ\3rd Year\Database Systems\delivered project\Interface\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.genruntimeconfig.cache
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.exe
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.deps.json
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.json
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.runtimeconfig.dev.json
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\WinFormsApp35.pdb
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Home.Home.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.BranchForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.defaultForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.ManufacturerForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.MedicineForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.Med_Exist.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.PatientForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Properties.Resources.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.DataForms.DataControllerForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.Tables.DataForm.resources
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.GenerateResource.cache
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.AssemblyInfo.cs
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.csproj.CopyComplete
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.dll
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.pdb
+C:\Users\user\Downloads\PharmacyDB\WinFormsApp35\obj\Debug\netcoreapp3.1\WinFormsApp35.genruntimeconfig.cache
